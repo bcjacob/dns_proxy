@@ -667,5 +667,5 @@ broken_query_padding = ['cisco', 'cisco-ipv6', 'cisco-familyshield']
 
 [static]
 
-   [static.'gateway']
-   stamp = 'sdns://AgcAAAAAAAAAAAAzaHR0cHM6Ly84cDJ1bjNkMTc1LmNsb3VkZmxhcmUtZ2F0ZXdheS5jb20vZG5zLXF1ZXJ5Ci9kbnMtcXVlcnk'
+  [static.'gateway']
+  stamp = 'sdns://AgcAAAAAAAAAAAAzaHR0cHM6Ly84cDJ1bjNkMTc1LmNsb3VkZmxhcmUtZ2F0ZXdheS5jb20vZG5zLXF1ZXJ5Ci9kbnMtcXVlcnk'
